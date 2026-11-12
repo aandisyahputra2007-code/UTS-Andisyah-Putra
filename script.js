@@ -23,7 +23,7 @@ const aksi = {
     judul.textContent = "Andisyah Putra";
   },
   kelas() {
-    judul.textContent = "Kelas SI-3C";
+    judul.textContent = "Andisyah Putra Kelas SI-3C";
   },
   aktifitas() {
 
